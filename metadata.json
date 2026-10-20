@@ -1,0 +1,6 @@
+{
+  "name": "Super Siber Bros: Petualangan Fakta, Opini & Hoaks",
+  "description": "Game platformer seru bergaya Mario Bros dengan tantangan membedakan fakta, opini, dan hoaks di dunia digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
